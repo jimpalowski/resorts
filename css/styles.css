@@ -1,0 +1,27 @@
+h1{
+text-align: center;
+font-style: italic;
+
+}
+body{
+
+
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height: auto;
+}
+
+div.main {
+  text-align: center;
+
+}
+
+ul {
+  list-style-position: inside;
+  text-align:center;
+ }
