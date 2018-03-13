@@ -4,7 +4,9 @@ font-style: italic;
 
 }
 body{
-
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/0/02/Palancar_Beach_Cozumel_Mexico_%2821204504730%29.jpg);
+background-repeat: no-repeat;
+text-align: center;
 
 }
 
@@ -25,3 +27,32 @@ ul {
   list-style-position: inside;
   text-align:center;
  }
+
+h3{
+  text-align: center;
+  font-style: oblique;
+}
+
+h4{
+  text-align: center;
+  font-style: italic;
+}
+
+.row {
+  display: flex;
+  flex-wrap: nowrap;
+  padding: 0 5px;
+
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  flex: 50%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+
+}
